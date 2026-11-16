@@ -1,0 +1,12 @@
+{
+  "name": "grokbot-webhook",
+  "version": "0.7.2",
+  "description": "Claude Code から Grok Bot (Cursor 社のデスクトップアプリの bot) に仕事を頼めるようにする。セットアップは会話で進み、終わると呼び出し用の skill ができる",
+  "author": {
+    "name": "AI-Driven R&D Dept",
+    "url": "https://github.com/AI-Driven-R-D-Dept"
+  },
+  "homepage": "https://github.com/AI-Driven-R-D-Dept/grokbot-webhook",
+  "repository": "https://github.com/AI-Driven-R-D-Dept/grokbot-webhook",
+  "license": "MIT"
+}

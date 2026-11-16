@@ -1,0 +1,16 @@
+{
+  "name": "grokbot-webhook",
+  "description": "Claude Code から Grok Bot をルーティンの Webhook 経由で呼び出す plugin",
+  "owner": {
+    "name": "AI-Driven R&D Dept",
+    "url": "https://github.com/AI-Driven-R-D-Dept"
+  },
+  "plugins": [
+    {
+      "name": "grokbot-webhook",
+      "source": "./plugins/grokbot-webhook",
+      "version": "0.7.2",
+      "description": "Claude Code から Grok Bot に仕事を頼めるようにする plugin。セットアップ用の skill (setup) が会話で手順を進め、終わると呼び出し用の skill (ask-grokbot) を作る"
+    }
+  ]
+}
